@@ -1,4 +1,4 @@
-# ✨ Oi! Eu sou a Maxiner! 🚀
+# ✨ Oi! Eu sou a Maxine! 🚀
 
 ## 💡 Sobre mim
 🎓 **Estudante de Publicidade e Propaganda** (4º semestre) na UNIFASAM, apaixonada por unir criatividade, estratégia e tecnologia.  
