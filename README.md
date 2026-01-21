@@ -1,7 +1,7 @@
 # ✨ Oi! Eu sou a Maxine! 🚀
 
 ## 💡 Sobre mim
-🎓 **Estudante de Publicidade e Propaganda** (4º semestre) na UNIFASAM, apaixonada por unir criatividade, estratégia e tecnologia.  
+🎓 **Estudante de Publicidade e Propaganda** (5º semestre) na UNIFASAM, apaixonada por unir criatividade, estratégia e tecnologia.  
 🎮 **Nerd de carteirinha**, sempre explorando universos geek por meio de jogos, filmes e séries.  
 💻 Aprendendo **programação com Python**, buscando integrar soluções tecnológicas a projetos criativos.  
 📈 Interesse especial em **marketing digital** e no mercado de jogos.
